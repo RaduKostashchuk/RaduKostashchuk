@@ -19,9 +19,9 @@
 
 **Study projects**
 
-1. [URL converter REST API using Spring](https://github.com/RaduKostashchuk/job4j_url_shortcut)
-2. [Chat application using Spring](https://github.com/RaduKostashchuk/job4j_chat)
-3. [Forum application using Spring](https://github.com/RaduKostashchuk/job4j_forum)
+1. [URL converter REST API using Spring boot](https://github.com/RaduKostashchuk/job4j_url_shortcut)
+2. [Chat application using Spring boot](https://github.com/RaduKostashchuk/job4j_chat)
+3. [Forum application using Spring boot](https://github.com/RaduKostashchuk/job4j_forum)
 4. [Car sale application using Servlet and Hibernate](https://github.com/RaduKostashchuk/job4j_cars)
 5. [TODO list using Servlet and Hibernate](https://github.com/RaduKostashchuk/job4j_todo)
 6. [Cinema using Servlet and Hibernate](https://github.com/RaduKostashchuk/job4j_cinema)
