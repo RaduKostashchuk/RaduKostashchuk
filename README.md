@@ -30,3 +30,9 @@
 9. [JMS asynchronous queue](https://github.com/RaduKostashchuk/job4j_pooh)
 10. [Vacancy grabber using JSOUP](https://github.com/RaduKostashchuk/job4j_grabber)
 
+---
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=RaduKostashchuk&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaduKostashchuk&layout=compact)](https://github.com/RaduKostashchuk/github-readme-stats)
+
