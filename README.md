@@ -16,10 +16,17 @@
 - **Linux:** глубокий уровень (sysadmin опыт)
 - **Сети:** CCNP (маршрутизация, коммутация, VPN)
 - **Инструменты:** Git, CMake, PlatformIO, Docker
+- **Hardware:** пайка, сборка, диагностика (моторист/агрегатчик)
+
+## Что я приношу
+- **15+ лет инженерного опыта** — Linux, сети (CCNP), backend.
+- **Опыт работы руками** — дизельные двигатели, механика. 
+  Понимаю физику, умею паять, не боюсь разобрать и собрать.
+- **Программирование** — C++, Python, C#, Java, Kotlin.
 
 ## Что ищу
 Application Engineer / Robotics Software Engineer / 
 Embedded Engineer в robotics (AMR/AGV, промышленные роботы, embedded).
 
 ## Контакты
-- Email: rkostashchuk@gmail.com
+- Email: kostashchukrm@gmail.com
