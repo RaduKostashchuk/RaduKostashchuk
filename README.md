@@ -9,6 +9,8 @@
   с энкодером на Arduino. Feed-forward + PID, телеметрия в CSV, 
   Python-визуализация, экспериментальная настройка. Следующий шаг — STM32 
   с hardware encoder mode.
+- **[STM32 Motor Control: FF + PID](https://github.com/RaduKostashchuk/stm32-motor-controller)** — управление скоростью DC-мотора 
+  с энкодером на STM32. Feed-forward + PID, телеметрия в CSV.
 
 ## Стек
 - **Языки:** C++, Python, C#, Java, Kotlin
